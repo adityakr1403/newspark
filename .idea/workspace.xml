@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9afb67c6-d715-4bba-9a59-58276f3c9b56" name="Changes" comment="c3">
+      <change afterPath="$PROJECT_DIR$/authenticationurl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspark.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[category]/[...path]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[category]/[...path]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[category]/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[category]/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[category]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[category]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/post/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/post/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/featuredNews/featuredNewsCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/postCards/featuredNewsCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homePageSections/entertainmentSection/entertainmentSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homePageSections/entertainmentSection/entertainmentSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homePageSections/featuredSection/featuredSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homePageSections/featuredSection/featuredSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homePageSections/internationalSection/internationalSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homePageSections/internationalSection/internationalSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homePageSections/sportsSection/sportsSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homePageSections/sportsSection/sportsSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/homePageSections/technologySection/technologySection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/homePageSections/technologySection/technologySection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/latestPostsTopCrousel/post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/latestPostsTopCrousel/post.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sliderPost/sliderPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/postCards/sliderPost.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sports/sportsEvent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/postCards/sportsEvent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/technologyNews/postHorizontal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/postCards/postHorizontal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/technologyNews/technologyPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/postCards/technologyPost.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lVYN5T2vMwiH5vapkZwRcNSH77" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aditya/Desktop/newspark&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Aditya\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adity\WebstormProjects\newspark" />
+      <recent name="C:\Users\adity\WebstormProjects\newspark\src\app\[category]" />
+      <recent name="C:\Users\adity\WebstormProjects\newspark\src\app\(categories)\travel" />
+      <recent name="C:\Users\adity\WebstormProjects\newspark\src\app\(categories)\technology" />
+      <recent name="C:\Users\adity\WebstormProjects\newspark\src\app\(categories)\sports" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adity\WebstormProjects\newspark\src\components\postCards" />
+      <recent name="C:\Users\adity\WebstormProjects\newspark" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9afb67c6-d715-4bba-9a59-58276f3c9b56" name="Changes" comment="" />
+      <created>1725266668707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725266668707</updated>
+      <workItem from="1725266670008" duration="128046000" />
+      <workItem from="1725581635844" duration="112000" />
+      <workItem from="1725581817773" duration="14378000" />
+      <workItem from="1725690336749" duration="59295000" />
+      <workItem from="1725857446745" duration="62242000" />
+      <workItem from="1726225836876" duration="938000" />
+      <workItem from="1726359290694" duration="150000" />
+      <workItem from="1726359486894" duration="12546000" />
+      <workItem from="1726375348606" duration="3359000" />
+      <workItem from="1726936308399" duration="548000" />
+      <workItem from="1726936932510" duration="2938000" />
+      <workItem from="1726941381251" duration="818000" />
+      <workItem from="1728362913483" duration="11000" />
+      <workItem from="1729829920440" duration="742000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1725552184350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725552184350</updated>
+    </task>
+    <task id="LOCAL-00002" summary="connected with blogger api and weather api">
+      <option name="closed" value="true" />
+      <created>1726226721499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726226721499</updated>
+    </task>
+    <task id="LOCAL-00003" summary="c3">
+      <option name="closed" value="true" />
+      <created>1726371620559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726371620559</updated>
+    </task>
+    <task id="LOCAL-00004" summary="c3">
+      <option name="closed" value="true" />
+      <created>1726372095113</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726372095113</updated>
+    </task>
+    <task id="LOCAL-00005" summary="c3">
+      <option name="closed" value="true" />
+      <created>1726372219874</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726372219874</updated>
+    </task>
+    <task id="LOCAL-00006" summary="c3">
+      <option name="closed" value="true" />
+      <created>1726375843651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726375843651</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="connected with blogger api and weather api" />
+    <MESSAGE value="c3" />
+    <option name="LAST_COMMIT_MESSAGE" value="c3" />
+  </component>
+</project>

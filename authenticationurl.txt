@@ -1,0 +1,43 @@
+import {google} from "googleapis";
+
+
+export async function GET(
+    request: Request,
+    {params}: { params: { category: string } }
+) {
+    const category = params.category
+
+    const oauth2Client = new google.auth.OAuth2(
+        process.env.GOOGLE_CLIENT_ID,
+        process.env.GOOGLE_CLIENT_SECRET,
+        process.env.GOOGLE_REDIRECT_URI
+    );
+    const scopes = [
+        'https://www.googleapis.com/auth/blogger',
+    ];
+
+
+    // const url = oauth2Client.generateAuthUrl({
+    //     // 'online' (default) or 'offline' (gets refresh_token)
+    //     access_type: 'offline',
+    //
+    //     // If you only need one scope, you can pass it as a string
+    //     scope: scopes
+    // });
+
+    const blogParams = {
+        blogId: '7145774002601485283'
+    };
+
+    
+    const blogger = google.blogger({
+        version: 'v3',
+        auth: auth,
+        params: blogParams
+    });
+    //
+    const res = await blogger.blogs.get();
+
+
+    return new Response(`Category: ${url}`)
+}
